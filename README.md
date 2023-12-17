@@ -1,9 +1,9 @@
-# ProgrammingForDataAnalysis-Spring2023
-Contents of Dr. Sadeghzadeh's Micromaster3010: Programming for Data Analysis (Sharif University of Technology - Spring 2023)
+# ProgrammingForDataAnalysis-Summer2023
+Contents of Dr. Sadeghzadeh's Micromaster3010: Programming for Data Analysis (Sharif University of Technology - Summer 2023)
 
 ## Overview
 
-This repository contains contents and solutions to the assignments for the Micromaster3010: Programming for Data Analysis course at Micromaster, Sharif University of Technology, Spring 2023, taught by Dr. Sadeghzadeh.
+This repository contains contents and solutions to the assignments for the Micromaster3010: Programming for Data Analysis course at Micromaster, Sharif University of Technology, Summer 2023, taught by Dr. Sadeghzadeh.
 
 ## Table of Contents
 
