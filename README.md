@@ -15,6 +15,10 @@ This repository contains contents and solutions to the assignments for the Micro
 
 In the "Assignments" folder, you will find the assignments' docs and also the solutions to our assignments during the course.
 
+## Notebooks
+
+In the "Notebooks" folder, you will find the notebooks and slides which were used during the course.
+
 ## Maintainer
 
 - [Iman Mohammadi](https://github.com/Imanm02)
