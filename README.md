@@ -1,4 +1,4 @@
-# ProgrammingForDataAnalysis-Summer & Fall 2023
+# ProgrammingForDataAnalysis-Summer2023
 Contents of Dr. Sadeghzadeh's Micromaster3010: Programming for Data Analysis (Sharif University of Technology - Summer 2023)
 
 ## Overview
@@ -22,3 +22,4 @@ In the "Notebooks" folder, you will find the notebooks and slides which were use
 ## Maintainer
 
 - [Iman Mohammadi](https://github.com/Imanm02)
+- [Mehrab Moradzadeh](https://github.com/Moradzadeh1999)
