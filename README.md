@@ -1,4 +1,4 @@
-# ProgrammingForDataAnalysis-Summer2023
+# ProgrammingForDataAnalysis-Summer & Fall 2023
 Contents of Dr. Sadeghzadeh's Micromaster3010: Programming for Data Analysis (Sharif University of Technology - Summer 2023)
 
 ## Overview
